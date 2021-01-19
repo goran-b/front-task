@@ -3,7 +3,8 @@ Exercise in html, css and javascript
 
 ## Motivation
 Exercise task
-![task](https://github.com/goran-b/front-task/blob/main/Frontend%20%20task.jpg)
+
+<img src="https://github.com/goran-b/front-task/blob/main/Frontend%20%20task.jpg" width="600" alt='task'>
 
 
 ## Code style
@@ -12,8 +13,9 @@ Exercise task
  
 ## Screenshots
 
-![home page](https://github.com/goran-b/front-task/blob/main/screenshot-home-page.PNG)
-![home page](https://github.com/goran-b/front-task/blob/main/screenshot-home-page.PNG)
+<img src="https://github.com/goran-b/front-task/blob/main/screenshot-home-page.PNG" width="600" alt='home page'>
+<img src="https://github.com/goran-b/front-task/blob/main/screenshot-home-page2.PNG" width="600" alt='home page'>
+
 
 
 
